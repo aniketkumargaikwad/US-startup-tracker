@@ -2,6 +2,8 @@
 
 **Research date:** 15 November 2026 · **Scope:** 12 US technology startups, selected for strong recent traction and for spanning different business models (vertical AI, SMB SaaS, consumer subscription, fintech, marketplace, developer tools).
 
+> **India-based founder?** The [India adaptation addendum](2026-11-15-india-adaptation-addendum.md) changes the recommendation below. The AI front-office idea is already crowded in India; the addendum recommends a health insurance claim dispute assistant instead.
+
 ## Read this first
 
 **The conclusion.** The best-supported opportunity for a new, capital-light entrant is an **AI front office (call answering, booking, follow-up) for local service businesses in a segment the US leaders are not serving**: a non-US or non-English market, or a vertical outside home services. Avoca proves buyers pay for it, but Avoca sells to large US contractors, and the equivalent companies outside the US are still at pre-seed or seed scale. Two further ideas are worth testing: a direct-ordering growth stack for independent restaurants in aggregator-dominated markets (the Owner model), and document-to-work-product AI for a claims-heavy professional niche other than US personal injury (the EvenUp model).
